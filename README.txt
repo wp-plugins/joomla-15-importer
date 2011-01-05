@@ -18,7 +18,7 @@ This plugin does not convert Joomla articles into Wordpress pages, although its 
 support such a conversion rather easily if someone would choose to code it.
 
 This plugin does not work on Joomla 1.0 databases. If you need to convert your Joomla 1.0 data, you will first need
-to upgrade it to [migrate to Joomla 1.5](http://docs.joomla.org/Migrating_from_1.0.x_to_1.5_Stable).
+to [migrate to Joomla 1.5](http://docs.joomla.org/Migrating_from_1.0.x_to_1.5_Stable).
 
 This plugin does not work on Joomla 1.6 databases. The Joomla 1.5 2-level section/category system has been replaced
 in Joomla 1.6 with a multi-level hierarchical system similar to Wordpress. This framework could be adapted to support
