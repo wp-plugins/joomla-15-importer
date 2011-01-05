@@ -72,14 +72,20 @@ class Joomla_Import extends WP_Importer {
 		echo '<div style="background-color: #ffffff; float: right; width: 160px; margin: 5px; padding: 5px; border: 1px solid black;">';
 		echo '<p align="center"><a href="http://www.girlchoir.org" target="_blank"><img src="' . WP_PLUGIN_URL . '/' . $plugin_name . '/gcsf-logo.gif" border="0"/></a></p>';
 		echo <<<EOF
+<p align="center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="P7U8C4L5QHT4Y">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img style="margin: 0 auto;" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></p>
+
 <p style="font-size: 10px;">
 I wrote this plugin to migrate the website of <b><a href="http://www.girlchoir.org">The Girl Choir of South Florida</a></b>.
 You can see and hear the choir in action at
 their <b><a href="http://www.youtube.com/girlchoir" target="_blank">YouTube channel</a></b>.
 They're amazing!
 </p><p style="font-size: 10px;">
-The best way to say "thank you" is to make a donation to the choir.
-Follow the link and click on the "Give the Gift of Music" button.
+The best way to say "thank you" is to make a donation to the choir by clicking the <u>Donate</u> button above.
 You and the choir will both be glad you did.
 All donations received from this plugin
 will go towards scholarships for needy families.
