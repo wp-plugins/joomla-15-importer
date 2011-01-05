@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 /*
 Plugin Name: Joomla 1.5 Importer
-Plugin URI: http://code.google.com/p/joomla-15-importer/
+Plugin URI: http://wordpress.org/extend/plugins/joomla-15-importer/
 Description: Migrate posts from a Joomla 1.5 database into Wordpress
 Author: Eric Peterson (ePeterso2)
 Author URI: http://www.epeterso2.com/
